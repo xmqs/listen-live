@@ -11,8 +11,12 @@ Terminalm 控制台启动 douyu/huya 直播
 
 满足听直播需求
 
+# npm地址
+[https://github.com/YanG-1989/m3u](https://www.npmjs.com/package/listen-live)
+
 # 直播流来源
 https://github.com/YanG-1989/m3u
+
 # 食用方法
 
 npm i listen-live
