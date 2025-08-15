@@ -1,6 +1,6 @@
 # listen-live
 ### 主要功能：听
-Terminalm 控制台启动 douyu/huya 直播
+Terminal 控制台启动 douyu/huya 直播
 
 集成ffplay播放器，播放直播流的音频
 # 开发原因
