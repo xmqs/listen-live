@@ -60,7 +60,6 @@ process.stdin.on('keypress', (str, key) => {
                 process.exit();
             });
         });
-        return;
     } else if (key.ctrl && key.name === 'c') {
         rl.close();
         process.exit();
