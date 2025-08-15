@@ -1,0 +1,19 @@
+{
+  "name": "listen-live",
+  "version": "1.0.7",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "listen-live": "index.js"
+  },
+  "keywords": [],
+  "author": {
+    "name": "xmqs",
+    "email": "469699659@qq.com"
+  },
+  "license": "ISC",
+  "readmeFilename": "readme.md"
+}
